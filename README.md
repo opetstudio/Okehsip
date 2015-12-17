@@ -23,7 +23,7 @@ POST androidForgotPasswordURL
 	Req: email,vercode
 	Resp: {err_code:"",err_msg:"",notif:""}
 	
-POST androidForgotPasswordURL
+POST androidCreateNewPasswordURL
 	Req: email,vercode,pass,client
 	Resp: {err_code:"",err_msg:"",notif:""}
 	
