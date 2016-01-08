@@ -1,4 +1,6 @@
 # Okehsip
+Aplikasi android native sederhana. fitur: login, logout, signup, forgot password.
+untuk mencoba langsung silahkan install file Okehsip.apk ke smartphone anda.
 
 Alamat server
 http://okehsip-rtpoai.rhcloud.com/
@@ -27,4 +29,3 @@ http://okehsip-rtpoai.rhcloud.com/getVercode?email=[nama email]
 
 Remove Account:
 http://okehsip-rtpoai.rhcloud.com/RmAccountByEmail?email=[nama email]
-
